@@ -33,7 +33,7 @@
 </h3>
 
 <h3 align="center">
-	Shcool 21 student
+	School 21 student
 </h3>
 
 ###  👨‍💻 About Me :
