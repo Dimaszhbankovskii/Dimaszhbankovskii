@@ -38,7 +38,7 @@
 
 ###  👨‍💻 About Me :
 
-- Bachelor in Medical Physics
+- Bachelor in Technical Physics  
 
 - Master in Biotechnical Systems and Technology
 
